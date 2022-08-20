@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST:Radio
+#EXTGRP:РАДИО
+#EXTINF:0 logo="http://radio.jingles.ru/images/player/poster.jpg", Radio Rostova
+http://radio.jingles.ru:8000/rostovradio
