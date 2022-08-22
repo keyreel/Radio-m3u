@@ -4,3 +4,5 @@
 #EXTGRP:РАДИО
 #EXTINF:0 logo="http://radio.jingles.ru/images/player/poster.jpg", Radio Rostova
 http://radio.jingles.ru:8000/rostovradio
+#EXTINF:0 logo="https:/xo.fm//view/site/images/FM_circle.png", XO FM
+https://live.xo.fm/03
