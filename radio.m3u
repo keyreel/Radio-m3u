@@ -6,3 +6,5 @@
 http://radio.jingles.ru:8000/rostovradio
 #EXTINF:0 logo="https:/xo.fm//view/site/images/FM_circle.png", XO FM
 https://live.xo.fm/03
+#EXTINF:0 logo="https://radio7.ru/media/default/images/logo.svg", Radio 7 RND
+http://46.147.96.245:8000/monitor_rnd
