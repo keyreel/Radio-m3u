@@ -8,3 +8,5 @@ http://radio.jingles.ru:8000/rostovradio
 https://live.xo.fm/03
 #EXTINF:0 logo="https://upload.wikimedia.org/wikipedia/ru/6/6f/Logo_radio7.jpg", Radio 7 RND
 http://46.147.96.245:8000/monitor_rnd
+#EXTINF:0 logo="https://www.jingles.ru/images/l-it_logo.png", L-IT Radio
+https://stream.jingles.ru/lite-radio-mp3-128
