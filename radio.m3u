@@ -2,8 +2,8 @@
 #EXTENC: UTF-8
 #PLAYLIST:Ралио
 #EXTGRP:РАДИО
-#EXTINF:0 logo="http://radio.jingles.ru/images/player/poster.jpg", Radio Rostova
-http://radio.jingles.ru:8000/rostovradio
+#EXTINF:0 logo="https://raw.githubusercontent.com/keyreel/Radio-m3u/master/logo-radio-rostova.jpg", Radio Rostova
+https://stream.radiorostova.ru/radio-rostova-high
 #EXTINF:0 logo="https:/xo.fm//view/site/images/FM_circle.png", XO FM
 https://live.xo.fm/03
 #EXTINF:0 logo="https://upload.wikimedia.org/wikipedia/ru/6/6f/Logo_radio7.jpg", Radio 7 RND
