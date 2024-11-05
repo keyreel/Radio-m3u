@@ -6,7 +6,7 @@
 https://stream.radiorostova.ru/radio-rostova-high.mp3
 #EXTINF:0 tvg-logo="https://xo.fm//view/site/images/FM_circle.png", XO FM
 https://live.xo.fm/03
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/keyreel/Radio-m3u/master/logo-radio7.png", Radio 7 RND
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/keyreel/Radio-m3u/master/logo-radio7.png", Radio 7
 http://46.147.96.245:8000/wwwmsk1
 #EXTINF:0 tvg-logo="https://www.jingles.ru/images/l-it_logo.png", L-IT Radio
 https://it-radio.ru/lite
