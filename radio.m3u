@@ -7,8 +7,10 @@ https://stream.radiorostova.ru/most-radio-high.mp3
 #EXTINF:0 tvg-logo="https://xo.fm//view/site/images/FM_circle.png", XO FM
 https://live.xo.fm/03
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/keyreel/Radio-m3u/master/logo-radio7.png", Radio 7
-http://46.147.96.245:8000/wwwmsk1
+http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
 #EXTINF:0 tvg-logo="https://www.jingles.ru/images/l-it_logo.png", L-IT Radio
-https://itradio.ru/stream/lite
+https://it-radio.ru/lite
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/keyreel/Radio-m3u/master/logo_spokoynoe_radio.png", Спокойное Радио
 https://listen1.myradio24.com/6262
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/keyreel/Radio-m3u/master/logo-chiplduk.jpg", Чипль Дук
+http://radio.4duk.ru/4duk128.mp3
