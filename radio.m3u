@@ -2,7 +2,7 @@
 #EXTENC: UTF-8
 #PLAYLIST:Radio
 #EXTGRP:RADIO
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/keyreel/Radio-m3u/master/logo-most-radio.png", Radio Rostova
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/keyreel/Radio-m3u/master/logo-most-radio.png", Most Radio
 https://stream.radiorostova.ru/most-radio-high.mp3
 #EXTINF:0 tvg-logo="https://xo.fm//view/site/images/FM_circle.png", XO FM
 https://live.xo.fm/03
